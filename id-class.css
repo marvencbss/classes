@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <style>
+    .header {
+        background-color: aqua;
+
+    }
+    .post {
+        background-color: blue;
+        padding: 10px;
+    }
+    .post:hover {
+        background-color: aqua;
+        transition: 1s;
+    }
+
+    .post:active {
+        background-color: aquamarine;
+    }
+        </style>
+    </head>
+</html>
